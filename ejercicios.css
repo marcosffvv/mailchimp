@@ -1,5 +1,11 @@
 .flexible {
     display: flex;
+    justify-content: flex-start;
+}
+
+.flexible2 {
+    display: flex;
+    justify-content: flex-start;
 }
 
 .boton {
