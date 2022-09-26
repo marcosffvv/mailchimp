@@ -1,13 +1,20 @@
 .flexible {
     display: flex;
     justify-content: flex-start;
+    align-items: center;
 }
-
 .flexible2 {
     display: flex;
     justify-content: flex-start;
 }
-
 .boton {
     padding: 7px;
 }
+ul{
+    margin-left: 10px;
+    padding: 0px;
+}
+li{
+    margin-left: 13px;
+}
+
